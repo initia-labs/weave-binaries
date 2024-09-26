@@ -4,7 +4,7 @@ This repository contains the binaries of Weave CLI project.
 
 Weave is a powerful command-line tool designed for managing Initia deployments and interacting with Initia and Minitia nodes.
 
-To get started, download releases and run `weave init`
+To get started, download the latest binary from releases and run `weave init`
 
 ## Available Commands
 
